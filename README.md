@@ -1,4 +1,4 @@
-# Factory Downtime Root Cause Analysis using Tableau & 7 QC Tools
+# Factory Downtime Root Cause Analysis using Tableau
 
 ## Overview
 This project focuses on analyzing machine downtime across multiple factories to identify key causes of operational inefficiencies and provide data-driven recommendations. Using Tableau and the 7 Quality Control (QC) tools, the analysis highlights patterns, trends, and root causes impacting production performance.
